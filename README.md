@@ -65,7 +65,7 @@ Sono un developer junior con una forte passione per il backend development. Dopo
 ## 📫 Come raggiungermi
 
 - 💼 LinkedIn: [Mario Fiorelli](https://www.linkedin.com/in/mario-fiorelli-full-stack-java-dev-junior/)
-- 📧 Email: [Il tuo indirizzo email professionale]
+- 📧 Email: mario.fiorelli92@gmail.com
 
 ---
 
